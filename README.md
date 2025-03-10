@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-- [blog](https://m-austin.com)
+- [m-austin.com](https://m-austin.com)
+- [@mattaustin](https://x.com/mattaustin)
