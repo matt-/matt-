@@ -27,11 +27,11 @@ Electron:
 - WebPreferences Bypass [CVE-2018-15685](https://www.electronjs.org/blog/web-preferences-fix)
 
 Zulip
-- CVE-2020-9445 - Server XSS vulnerability in modal_link
-- CVE-2020-9443 - Desktop RCE Untrusted content in webview.
-- CVE-2020-10856 - Remote code execution due to missing context isolation 
-- CVE-2020-10857 - shell.openExternal and shell.openItem
-- CVE-2020-10858 - Zulip recording via the webcam and microphone due to a missing permission request handler.
+- [CVE-2020-9445](https://blog.zulip.com/2020/04/01/zulip-server-2-1-3-security-release/) - Server XSS vulnerability in modal_link
+- [CVE-2020-9443](https://blog.zulip.com/2020/04/01/zulip-desktop-5-0-0-security-release/) - Desktop RCE Untrusted content in webview.
+- [CVE-2020-10856](https://blog.zulip.com/2020/04/01/zulip-desktop-5-0-0-security-release/) - Remote code execution due to missing context isolation 
+- [CVE-2020-10857](https://blog.zulip.com/2020/04/01/zulip-desktop-5-0-0-security-release/) - shell.openExternal and shell.openItem
+- [CVE-2020-10858](https://blog.zulip.com/2020/04/01/zulip-desktop-5-0-0-security-release/) - Zulip recording via the webcam and microphone due to a missing permission request handler.
 
 Other / Bug Bounty: 
 RCEs in both Burp and ZAP proxy apps. 
