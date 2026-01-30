@@ -1,8 +1,9 @@
 ### Hi there 👋
-- [Hacker 1](https://hackerone.com/mattaustin?type=user)
-- [hack.do](https://hack.do)
-- [m-austin.com](https://m-austin.com)
-- [@mattaustin](https://x.com/mattaustin)
+- [HackerOne](https://hackerone.com/mattaustin?type=user)
+- [BugCrowd](https://bugcrowd.com/h/matt)
+- New Blog [hack.do](https://hack.do)
+- Old Blog [m-austin.com](https://m-austin.com)
+- X [@mattaustin](https://x.com/mattaustin)
 
 ## CVEs
 
